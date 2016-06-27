@@ -1,6 +1,6 @@
 {
   "name": "domip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if an IP is Dominican",
   "main": "index.js",
   "scripts": {
