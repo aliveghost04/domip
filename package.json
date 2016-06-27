@@ -1,0 +1,24 @@
+{
+  "name": "domip",
+  "version": "1.0.0",
+  "description": "Detect if an IP is Dominican",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick0040/domip.git"
+  },
+  "keywords": [
+    "ip",
+    "dominican",
+    "detect"
+  ],
+  "author": "Erick Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick0040/domip/issues"
+  },
+  "homepage": "https://github.com/erick0040/domip#readme"
+}
