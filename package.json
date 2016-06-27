@@ -1,6 +1,6 @@
 {
   "name": "domip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Detect if an IP is Dominican",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erick0040/domip.git"
+    "url": "git+https://github.com/aliveghost04/domip.git"
   },
   "keywords": [
     "ip",
@@ -18,7 +18,7 @@
   "author": "Erick Jimenez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erick0040/domip/issues"
+    "url": "https://github.com/aliveghost04/domip/issues"
   },
-  "homepage": "https://github.com/erick0040/domip#readme"
+  "homepage": "https://github.com/aliveghost04/domip#readme"
 }
